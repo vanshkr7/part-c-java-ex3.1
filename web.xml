@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>AttendanceServlet</servlet-name>
+    <servlet-class>AttendanceServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>AttendanceServlet</servlet-name>
+    <url-pattern>/AttendanceServlet</url-pattern>
+</servlet-mapping>
